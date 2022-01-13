@@ -12,7 +12,8 @@ namespace FirstProject
             Console.WriteLine(date);
             DateTime date2 = Tools.ConvertStrToDate("10-10-1985");
             Console.WriteLine(date2);
-
+         
+            //----
 
             string name = "name";
             int age = 15;
